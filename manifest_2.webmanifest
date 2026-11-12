@@ -1,10 +1,10 @@
 {
-  "id": "./index_2.html",
+  "id": "./index.html",
   "name": "El Tiempo en Saladillo",
   "short_name": "El Tiempo",
   "lang": "es-AR",
   "description": "Clima de Saladillo para aprender PWA",
-  "start_url": "./index_2.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#edf3f8",

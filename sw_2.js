@@ -2,7 +2,7 @@
 // No puede usar document.querySelector ni localStorage.
 const nombreCache = "saladillo-pwa-v2";
 const archivos = [
-    "./index_2.html",
+    "./index.html",
     "./style_2.css",
     "./app_2.js",
     "./manifest_2.webmanifest",
