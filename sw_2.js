@@ -1,6 +1,6 @@
 // El service worker se ejecuta aparte de app_2.js.
 // No puede usar document.querySelector ni localStorage.
-const nombreCache = "saladillo-pwa-v2";
+const nombreCache = "saladillo-pwa-v3";
 const archivos = [
     "./index.html",
     "./style_2.css",
